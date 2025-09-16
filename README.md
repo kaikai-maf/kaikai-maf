@@ -12,4 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kailani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## ✨ GitHub Projects 
+<!--[Linguagem de Programação](lik)-->
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
