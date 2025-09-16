@@ -1,6 +1,8 @@
 ## [ENG]
 ### Hi, I'm Kailani! 
-👩🏻‍💻 Computer Science student at UDESC, Brazil <br/>
+👩🏻‍💻 Computer Science student at [UDESC CCT](https://www.udesc.br/cct), Brazil <br/>
+🐝 I'm a core member of [COLMEIA](https://www.udesc.br/cct/colmeia), an extension group of UDESC mainly focused on spreading the open source word<br/>
+📖 Cybersecurity and OpenSource enthusiast 
 
 
 ## 💻 Tech Stack:
